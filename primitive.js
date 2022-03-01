@@ -15,9 +15,9 @@ non-premitive data type
 
 let a = 'hello';
 let b = a;
-console.log(a, b);
+// console.log(a, b);
 a = 'gello';
-console.log(a, b);
+// console.log(a, b);
 
 const x = { job: 'web deveploper' };
 const y = x;
